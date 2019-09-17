@@ -1,0 +1,11 @@
+C:\Users\home\source\repos\HomeBuildingHomew\HomeBuildingHomew\obj\Debug\netcoreapp2.2\HomeBuildingHomew.csprojAssemblyReference.cache
+C:\Users\home\source\repos\HomeBuildingHomew\HomeBuildingHomew\obj\Debug\netcoreapp2.2\HomeBuildingHomew.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\HomeBuildingHomew\HomeBuildingHomew\obj\Debug\netcoreapp2.2\HomeBuildingHomew.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\HomeBuildingHomew\HomeBuildingHomew\obj\Debug\netcoreapp2.2\HomeBuildingHomew.AssemblyInfo.cs
+C:\Users\home\source\repos\HomeBuildingHomew\HomeBuildingHomew\bin\Debug\netcoreapp2.2\HomeBuildingHomew.deps.json
+C:\Users\home\source\repos\HomeBuildingHomew\HomeBuildingHomew\bin\Debug\netcoreapp2.2\HomeBuildingHomew.runtimeconfig.json
+C:\Users\home\source\repos\HomeBuildingHomew\HomeBuildingHomew\bin\Debug\netcoreapp2.2\HomeBuildingHomew.runtimeconfig.dev.json
+C:\Users\home\source\repos\HomeBuildingHomew\HomeBuildingHomew\bin\Debug\netcoreapp2.2\HomeBuildingHomew.dll
+C:\Users\home\source\repos\HomeBuildingHomew\HomeBuildingHomew\bin\Debug\netcoreapp2.2\HomeBuildingHomew.pdb
+C:\Users\home\source\repos\HomeBuildingHomew\HomeBuildingHomew\obj\Debug\netcoreapp2.2\HomeBuildingHomew.dll
+C:\Users\home\source\repos\HomeBuildingHomew\HomeBuildingHomew\obj\Debug\netcoreapp2.2\HomeBuildingHomew.pdb
