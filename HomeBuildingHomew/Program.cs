@@ -6,9 +6,9 @@ namespace HomeBuildingHomew
     {
         static void Main(string[] args)
         {
-            const int zero = 0;
-            House house = new House();
-            Team team = new Team();
+            const int zero = 0; // Олег Сергеевич добрый день, я не понимаю что творится с моим гитом, я коммитил этот проект раза 4 по мере добавления классов и логики
+            House house = new House();//но в гитхаб кроме класса программ ничего не добавлялось, какой то глюк, с прошлыми проектами было тоже самое
+            Team team = new Team();//пришлось грохнуть репозиторий и залить все разом
             bool limitInitTeam = false;
             bool isActive = true;
             string key;

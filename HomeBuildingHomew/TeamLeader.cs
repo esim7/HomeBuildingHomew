@@ -12,7 +12,7 @@ namespace HomeBuildingHomew
         public int Age { get; set; }
         public string Position { get; set; }
         public int Wage { get; set; }
-        List<string> Reports;
+        List<string> Reports; //хранилище отчетов прораба
 
         public TeamLeader()
         {
